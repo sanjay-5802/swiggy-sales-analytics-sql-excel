@@ -123,11 +123,10 @@ The analysis revealed several valuable insights:
 
 ## 📷 Dashboard Snapshot
 
- Excel dashboard screenshot: 
+ Excel dashboard screenshot: https://github.com/sanjay-5802/swiggy-sales-analytics-sql-excel/blob/main/swiggy_dashboard_snap.png
 
 
 
----
 
 ## ⭐ Project Outcome
 
